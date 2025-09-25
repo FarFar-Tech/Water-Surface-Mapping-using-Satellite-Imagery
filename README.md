@@ -1,5 +1,6 @@
 # Water-Surface-Mapping-using-Satellite-Imagery
-<img width="1204" height="632" alt="image" src="https://github.com/user-attachments/assets/dd3478fc-e3eb-4ef6-8e6b-985b80edf448" />
+<img width="1199" height="625" alt="image" src="https://github.com/user-attachments/assets/3460807c-9cfe-44b5-8744-39486f875401" />
+
 
 
 This repo is about using a foundation model, named Copernicus-FM to map water surface from satellite imagery. 
