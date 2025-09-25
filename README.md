@@ -1,7 +1,7 @@
 # Water-Surface-Mapping-using-Satellite-Imagery
 <img width="1198" height="625" alt="image" src="https://github.com/user-attachments/assets/cc8f6548-8f0e-4de7-ba12-92383bd25d8c" />
 
-This repo is about a pipeline using a foundation model, named Copernicus-FM, to map the water surface from satellite imagery. All info, including the code and its report, can be found here!
+This repo is about a pipeline using a foundation model, named Copernicus-FM, to map the water surface from satellite imagery. All info, including the code, the used dataset, and its report, can be found here!
 
 ### ABSTRACT:
 R — Background & gap. Surface-water mapping underpins flood response, water-security planning, and wetland conservation, yet conventional rule-based indices and task-specific deep networks struggle to generalize across regions and seasons or demand extensive labels. Recent Earth-observation foundation models (FMs) promise transferable representations, but their robustness beyond their pretraining horizon remains under-documented. In particular, the out-of-scope performance of Copernicus-FM on application-driven datasets for water mapping has not been empirically established.
