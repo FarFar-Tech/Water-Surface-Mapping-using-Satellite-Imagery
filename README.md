@@ -37,6 +37,7 @@ We utilize the public Satellite Images of Water Bodies dataset from Kaggle, whic
 
 https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies
 
-<img width="813" height="1212" alt="image" src="https://github.com/user-attachments/assets/91a826f4-c2c7-4558-a36e-ad4929ae3f10" />
+<img width="362" height="547" alt="image" src="https://github.com/user-attachments/assets/3f37729a-8650-43a9-8cb0-29ea27a957bb" />
+
 
 
