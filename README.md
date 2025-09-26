@@ -48,6 +48,11 @@ https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodie
 - Transparent cost accounting. Beyond accuracy, we report parameter count, model size (MB), training time (s), and inference latency (ms/image) for every fraction. These measurements make the trade-offs between accuracy and cost explicit and actionable for agencies with limited computing or budgets.
 - A scalable solution that can be adapted for analyzing additional inputs and for each region targeted by remote sensing researchers and projects.
 
+# Report & Short Video
+The report of this research in 11 pages is attached to this repo. It includes sections: Introduction, Methodology, Results, Discussion, and Conclusion.
+
+A short video of presenting this research can be found here: 
+
 
 
 
