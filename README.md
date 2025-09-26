@@ -41,9 +41,7 @@ Server information:
 - NVIDIA GeForce RTX 4090 GPU
 
 # Dataset
-We utilize the public Satellite Images of Water Bodies dataset from Kaggle, which was originally compiled from Sentinel-2 imagery and is distributed as 2,841 RGB images paired with 2,841 binary masks (where white represents water and black represents non-water). The collection spans multiple continents, climate zones, and seasons, and includes a broad range of water types (rivers, lakes, ponds, reservoirs, and coastal segments). Masks were produced using a water-index–based procedure (NDWI/MNDWI-style) and manually verified for training use. Figure 2 shows different samples of this data, along with their corresponding masks. The link of the data: 
-
-https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies
+We utilize the public Satellite Images of Water Bodies dataset from Kaggle, which was originally compiled from Sentinel-2 imagery and is distributed as 2,841 RGB images paired with 2,841 binary masks (where white represents water and black represents non-water). The collection spans multiple continents, climate zones, and seasons, and includes a broad range of water types (rivers, lakes, ponds, reservoirs, and coastal segments). Masks were produced using a water-index–based procedure (NDWI/MNDWI-style) and manually verified for training use. Figure 2 shows different samples of this data, along with their corresponding masks. You can download the dataset [HERE](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies)  
 
 <img width="362" height="547" alt="image" src="https://github.com/user-attachments/assets/3f37729a-8650-43a9-8cb0-29ea27a957bb" />
 
