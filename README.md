@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodie
 - A scalable solution that can be adapted for analyzing additional inputs and for each region targeted by remote sensing researchers and projects.
 
 # Report & Short Video
-The report of this research in 11 pages is attached to this repo. It includes sections: Introduction, Methodology, Results, Discussion, and Conclusion.
+The report of this research in 11 pages is attached to this repo. It includes sections: Introduction, Methodology, Results, Discussion, and Conclusion. Read it [HERE]
 
 A short video of presenting this research can be found here: 
 
