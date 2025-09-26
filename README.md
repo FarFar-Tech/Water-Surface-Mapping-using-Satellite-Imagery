@@ -15,4 +15,15 @@ This repo is about a pipeline using a foundation model, named Copernicus-FM, to 
 The overview of the architecture of the pipeline proposed in this repo is as follows: 
 <img width="1357" height="504" alt="image" src="https://github.com/user-attachments/assets/622ae235-c122-4ada-98fe-79ce79c7c2ef" />
 
+# Getting Started
 
+In this research, we have utilized two notable Python libraries: TorchGeo (for applying Copernicus-FM) and GeoAI (for applying UNet34 trained on ImageNet data), in two distinct environments to avoid any conflicts. To make installation easier, we have added two yml format files that you can call to install all required packages together. "geo311np_environment.yml" for TorchGeo and "geo_environment.yml" for GeoAI. In the following, you can see an example of creating an environment and the installation process for TochGeo:   
+
+- Create a virtual env named "geo311np" and install required packages 
+```bash
+conda env create -f geo311np_environment.yml --name geo311np
+```
+- Use the virtual environment
+```bash
+conda activate geo311
+```
