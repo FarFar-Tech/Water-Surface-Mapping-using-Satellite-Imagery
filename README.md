@@ -13,3 +13,5 @@ This repo is about a pipeline using a foundation model, named Copernicus-FM, to 
 **Discussion & implications.** These findings demonstrate that Copernicus-FM generalizes effectively beyond its pretraining benchmark to an external domain and delivers high-quality water masks with scarce labels, directly addressing concerns about domain specificity. The clear label-efficiency knee (20–30%) provides a practical operating point for rapid, low-cost deployment in resource-constrained regions.
 
 The overview of the architecture of the pipeline proposed in this repo is as follows: 
+<img width="2858" height="1196" alt="image" src="https://github.com/user-attachments/assets/c4d0a8d2-7974-4629-9763-aac097cc7ecf" />
+
