@@ -8,6 +8,8 @@ This repo is about a pipeline using a foundation model, named Copernicus-FM, to 
 
 **Method.** We evaluate a frozen Copernicus-FM backbone paired with a lightweight fully-convolutional decoder for binary water-surface segmentation on the Water Bodies dataset. We quantify label efficiency by training with {10, 20, 30, 50, 100}% of the training tiles while keeping validation/test splits fixed. Performance is reported with Overall Accuracy (OA), Intersection-over-Union (IoU), and Dice.
 
+<img width="433" height="233" alt="image" src="https://github.com/user-attachments/assets/82f8a102-94b0-45c6-be07-1ee671f8e3a5" />
+
 **Results.** The model attains Test OA 0.864, IoU 0.749, and Dice 0.855 at full supervision, with strong performance already at 10% labels (IoU 0.683, Dice 0.809). Gains concentrate between 10–30% labels, after which returns saturate; at 30%, the system recovers ~98% of fully-supervised OA/Dice and ~97.5% of IoU. Confusion matrices show decreasing false negatives (12.2%→9.0%) and false positives (5.4%→4.5%), indicating cleaner shoreline and thin-channel delineation. Model size (~13 MB trainable) and inference latency (sub-ms per image) are constant across fractions.
 
 **Discussion & implications.** These findings demonstrate that Copernicus-FM generalizes effectively beyond its pretraining benchmark to an external domain and delivers high-quality water masks with scarce labels, directly addressing concerns about domain specificity. The clear label-efficiency knee (20–30%) provides a practical operating point for rapid, low-cost deployment in resource-constrained regions.
