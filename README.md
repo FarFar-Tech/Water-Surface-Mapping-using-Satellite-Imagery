@@ -33,7 +33,7 @@ conda activate geo311np
 ```bash
 jupyter notebook
 ```
-[File] (Fraction_WaterBody_CopernicusFM.ipynb) includes codes for applying Copernicus-FM, and File **"Fraction_WaterBody_UNet.ipynb"** includes codes for applying UNet34. You can also find the outputs of the provided codes that we run on our server for both files. They are stored in PDF format with the same names: **"Fraction_WaterBody_CopernicusFM.pdf"** and **"Fraction_WaterBody_UNet.pdf"**   
+[Fraction_WaterBody_CopernicusFM.ipynb]() includes codes for applying Copernicus-FM, and [Fraction_WaterBody_UNet.ipynb]() includes codes for applying UNet34. You can also find the outputs of the provided codes that we run on our server for both files. They are stored in PDF format with the same names: [Fraction_WaterBody_CopernicusFM.pdf]() and [Fraction_WaterBody_UNet.pdf]()   
 
 # Dataset
 We utilize the public Satellite Images of Water Bodies dataset from Kaggle, which was originally compiled from Sentinel-2 imagery and is distributed as 2,841 RGB images paired with 2,841 binary masks (where white represents water and black represents non-water). The collection spans multiple continents, climate zones, and seasons, and includes a broad range of water types (rivers, lakes, ponds, reservoirs, and coastal segments). Masks were produced using a water-index–based procedure (NDWI/MNDWI-style) and manually verified for training use. Figure 2 shows different samples of this data, along with their corresponding masks. The link of the data: 
