@@ -25,5 +25,9 @@ conda env create -f geo311np_environment.yml --name geo311np
 ```
 - Use the virtual environment
 ```bash
-conda activate geo311
+conda activate geo311np
+```
+- Open Jupyter notebook
+```bash
+jupyter notebook
 ```
