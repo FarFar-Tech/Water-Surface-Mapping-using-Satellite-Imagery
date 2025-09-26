@@ -42,5 +42,12 @@ https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodie
 
 <img width="362" height="547" alt="image" src="https://github.com/user-attachments/assets/3f37729a-8650-43a9-8cb0-29ea27a957bb" />
 
+# Contributions
+- Robust Water Mapping Beyond Pretraining Scope. We provide the first, to our knowledge, systematic evaluation of Copernicus-FM for surface-water segmentation across two external datasets, demonstrating how FM features transfer to environmental monitoring and flood-related use cases.
+- Label-Efficiency Curves with Fixed Validation/Test. We quantify performance across five label budgets (1–100%) using a frozen-backbone + lightweight decoder protocol, showing where returns saturate and what minimum annotation is needed for operational quality. 
+- Transparent cost accounting. Beyond accuracy, we report parameter count, model size (MB), training time (s), and inference latency (ms/image) for every fraction. These measurements make the trade-offs between accuracy and cost explicit and actionable for agencies with limited computing or budgets.
+- A scalable solution that can be adapted for analyzing additional inputs and for each region targeted by remote sensing researchers and projects.
+
+
 
 
