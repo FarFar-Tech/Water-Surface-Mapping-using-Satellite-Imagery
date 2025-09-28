@@ -55,7 +55,7 @@ We utilize the public Satellite Images of Water Bodies dataset from Kaggle, whic
 The report of this research in 11 pages is attached to this repo. It includes sections: Introduction, Methodology, Results, Discussion, and Conclusion. Read it [HERE](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/FarshadFarahnakian%20-%20ThinkingEarth%20Hackathon%20(BiDS).pdf)
 
 A short video of presenting this research can be found here: 
-
+https://youtu.be/hmLDvvG-CaU
 
 
 
