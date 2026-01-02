@@ -35,7 +35,7 @@ jupyter notebook
 ```
 [Fraction_WaterBody_CopernicusFM.ipynb](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/Fraction_WaterBody_CopernicusFM.ipynb) includes codes for applying Copernicus-FM, and [Fraction_WaterBody_UNet.ipynb](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/Fraction_WaterBody_UNet.ipynb) includes codes for applying UNet34. You can also find the outputs of the provided codes that we run on our server for both files. They are stored in PDF format with the same names: [Fraction_WaterBody_CopernicusFM.pdf](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/Fraction_WaterBody_CopernicusFM.pdf) and [Fraction_WaterBody_UNet.pdf](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/Fraction_WaterBody_UNet.pdf)   
 
-Server information: 
+Hardware information: 
 - Processor	Intel(R) Core(TM) i9-14900HX, 2200 Mhz, 24 Core(s)
 - Memory (RAM)	64,0 GB
 - NVIDIA GeForce RTX 4090 GPU
@@ -52,7 +52,7 @@ We utilize the public Satellite Images of Water Bodies dataset from Kaggle, whic
 - A scalable solution that can be adapted for analyzing additional inputs and for each region targeted by remote sensing researchers and projects.
 
 # Report & Short Video
-The report of this research in 11 pages is attached to this repo. It includes sections: Introduction, Methodology, Results, Discussion, and Conclusion. Read it [HERE](https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/FarshadFarahnakian%20-%20ThinkingEarth%20Hackathon%20(BiDS).pdf)
+%The report of this research in 11 pages is attached to this repo. It includes sections: Introduction, Methodology, Results, Discussion, and Conclusion. Read it [HERE]%(https://github.com/FarFar-Tech/Water-Surface-Mapping-using-Satellite-Imagery/blob/main/FarshadFarahnakian%20-%20ThinkingEarth%20Hackathon%20(BiDS).pdf)
 
 A short video of presenting this research can be found here: 
 https://youtu.be/hmLDvvG-CaU
