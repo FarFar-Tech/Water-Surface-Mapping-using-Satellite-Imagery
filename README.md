@@ -1,6 +1,6 @@
 # Water-Surface-Mapping-using-Satellite-Imagery
 <p align="center">
-  <img width="600" height="500" alt="GeoAI Toolkit" src="images/image1.png" />
+  <img width="600" height="500" alt="Water-Surface-Mapping-using-Satellite-Imagery" src="images/image1.png" />
 </p>
 
 🏆​🥇​ This study has been awarded **first prize** at the **ThinkingEarth Hackathon**, organized by ESA and BIG DATA FROM SPACE (BiDS 2025) 
